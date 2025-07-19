@@ -1,0 +1,8 @@
+{
+  "name": "temporary-train-stops-wait-forever",
+  "version": "1.0.0",
+  "title": "Temporary Train Stops Wait Forever",
+  "author": "nonrectangular",
+  "description": "Temporary train stops use an empty Fluid condition, which effectively waits forever.",
+  "factorio_version": "2.0"
+}
